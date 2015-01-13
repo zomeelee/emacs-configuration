@@ -1,2 +1,2 @@
 # emacs-configuration
-config emacs from zero
+config emacs from zero to one
